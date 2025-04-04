@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ae149fb-4ea6-4f77-8c95-3d0441bf2c9e" name="Changes" comment="Домашнее задание - неделя 1&#10;changed">
-      <change afterPath="$PROJECT_DIR$/Projects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects" beforeDir="false" afterPath="$PROJECT_DIR$/Projects" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-1/image-1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-1/image-2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-1/main-image.png" beforeDir="false" />
@@ -44,12 +45,12 @@
     &quot;assignee&quot;: &quot;Zhyldyzapyshova&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Zhyldyzapyshova/Frontend.git&quot;,
-    &quot;accountId&quot;: &quot;6ca08cc1-d719-46d5-b251-8b8a93be2f17&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Zhyldyzapyshova/frontend-0.git",
+    "accountId": "6ca08cc1-d719-46d5-b251-8b8a93be2f17"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -108,7 +109,8 @@
       <workItem from="1743616231534" duration="53000" />
       <workItem from="1743616312059" duration="11727000" />
       <workItem from="1743688740159" duration="15691000" />
-      <workItem from="1743766657562" duration="1501000" />
+      <workItem from="1743766657562" duration="2091000" />
+      <workItem from="1743770630435" duration="663000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <option name="closed" value="true" />
@@ -158,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743718774477</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Домашнее задание - неделя 1&#10;changed">
+      <option name="closed" value="true" />
+      <created>1743771290494</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743771290494</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

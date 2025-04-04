@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ae149fb-4ea6-4f77-8c95-3d0441bf2c9e" name="Changes" comment="Домашнее задание - неделя 1&#10;changed">
+      <change afterPath="$PROJECT_DIR$/Projects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-1/image-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-1/image-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-1/main-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-2/Base.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-2/Footer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-2/Header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-2/Logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-2/image-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-2/section-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-2/section-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/assets/images-project-2/section-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/sprint-1/week-1-project/css/style-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/sprint-1/week-1/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/sprint-1/week-1/index-2.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Projects" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Zhyldyzapyshova&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Zhyldyzapyshova/Frontend.git&quot;,
+    &quot;accountId&quot;: &quot;6ca08cc1-d719-46d5-b251-8b8a93be2f17&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2v5Qq05h1mesfZpUrYaOZoCOOR0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index-3.html.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Subversion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Projects" />
+      <recent name="$PROJECT_DIR$/Projects/sprint-1" />
+      <recent name="$PROJECT_DIR$/Projects/sprint-1/week-1" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Projects/assets-sprint-1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ae149fb-4ea6-4f77-8c95-3d0441bf2c9e" name="Changes" comment="" />
+      <created>1743432642569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743432642569</updated>
+      <workItem from="1743432644888" duration="17097000" />
+      <workItem from="1743616108861" duration="19000" />
+      <workItem from="1743616231534" duration="53000" />
+      <workItem from="1743616312059" duration="11727000" />
+      <workItem from="1743688740159" duration="15691000" />
+      <workItem from="1743766657562" duration="1501000" />
+    </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <option name="closed" value="true" />
+      <created>1743692410699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743692410699</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HTML структура макета. Проект 2">
+      <option name="closed" value="true" />
+      <created>1743714399123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743714399123</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Домашнее задание - неделя 1">
+      <option name="closed" value="true" />
+      <created>1743716273348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743716273348</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Домашнее задание - неделя 1&#10;changed">
+      <option name="closed" value="true" />
+      <created>1743716768757</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743716768757</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Домашнее задание - неделя 1&#10;changed">
+      <option name="closed" value="true" />
+      <created>1743717163036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743717163036</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Домашнее задание - неделя 1&#10;changed">
+      <option name="closed" value="true" />
+      <created>1743718774476</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743718774477</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <MESSAGE value="HTML структура макета. Проект 2" />
+    <MESSAGE value="Домашнее задание - неделя 1" />
+    <MESSAGE value="Домашнее задание - неделя 1&#10;changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание - неделя 1&#10;changed" />
+  </component>
+</project>
